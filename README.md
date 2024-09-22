@@ -1,5 +1,10 @@
 # Joget QA Test
 
+## Instruction
+
+For Question 1 - 3, the source code will be in `cypress/e2e/joget-cypress`
+For Question 4 - 6, it will be in `joget-js`
+
 ## Question 7
 
 1. How do you install Cypress and set up your first test?

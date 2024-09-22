@@ -1,7 +1,5 @@
 describe("User can navigate to different page within joget.com", () => {
     beforeEach(() => {
-        // root-level hook
-        // runs once before all tests
         cy.visit("https://www.joget.com/")
     })
 
